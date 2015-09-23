@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="library" version="2.5" method="upgrade">
+  <name>QuickBooks PHP</name>
+  <libraryname>quickbooks-php</libraryname>
+  <version>0.0.1</version>
+  <creationDate>2015-9-23</creationDate>
+  <author>Keith Palmer / David Hayes</author>
+  <authorUrl>https://github.com/consolibyte/quickbooks-php / https://blackbricksoftware.com</authorUrl>
+  <authorEmail>support@consolibyte.com / david@blackbricksoftware.com</authorEmail>
+  <description><![CDATA[QuickBooks PHP library for Joomla!. <br/>
+  Please note that Black Brick Software has only created an installation package, all credit belongs to http://consolibyte.com]]>
+  </description>
+  
+<!--
+  <updateservers>
+    <server type="extension" priority="1" name="TCPDF library Updates"><![CDATA[http://www.fabbricabinaria.it/index.php?option=com_ars&view=update&task=stream&format=xml&id=5&dummy=extension.xml]]></server>
+  </updateservers>
+-->
+  
+  <files>
+    <folder>quickbooks-php</folder>
+    <file>quickbooks-php.php</file>
+  </files>
+</extension>

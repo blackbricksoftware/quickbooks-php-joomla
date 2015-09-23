@@ -1,0 +1,3 @@
+[submodule "quickbooks-php"]
+	path = quickbooks-php
+	url = https://github.com/consolibyte/quickbooks-php.git
